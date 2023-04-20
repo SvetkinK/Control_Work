@@ -27,5 +27,5 @@
 3. _Console.Write(text2[i] + ", ")_ - напечатать в строку последовательно элементы нового массива
 
 # Блок-схема
-
+![ControlBlockDiagram](https://user-images.githubusercontent.com/126811874/233411230-1614dc55-3a29-491c-b766-aeff36024a62.png)
 
